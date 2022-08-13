@@ -22,7 +22,7 @@
 <a href="https://twitter.com/koushik__ayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koushik__ayan" height="30" width="40" /></a>
 <a href="https://fb.com/koushik.ayan.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="koushik.ayan.7" height="30" width="40" /></a>
 <a href="https://instagram.com/koushik__ayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koushik__ayan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucwlvym_xmflscimmvrncm5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwlvym_xmflscimmvrncm5w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWLvyM_XmflsCIMmvrNcm5w/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwlvym_xmflscimmvrncm5w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
